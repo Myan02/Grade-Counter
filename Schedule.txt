@@ -1,0 +1,81 @@
+Course Id	Section No.	Title	Year	Semester	Instructor	Department	Program
+10000 PP	34143	Introduction to Programming & Computer Science	2021	Spring	Anna Towne	Computer Science	Undergraduate
+10200 CC1	32118	Introduction to Computing	2021	Spring	Jun Wu	Computer Science	Undergraduate
+10200 CC2	32119	Introduction to Computing	2021	Spring	Jun Wu	Computer Science	Undergraduate
+10200 CC3	32139	Introduction to Computing	2021	Spring	Jun Wu	Computer Science	Undergraduate
+10200 MM1	32140	Introduction to Computing	2021	Spring	Denis Khryashchev	Computer Science	Undergraduate
+10200 MM2	32141	Introduction to Computing	2021	Spring	Denis Khryashchev	Computer Science	Undergraduate
+10200 MM3	32155	Introduction to Computing	2021	Spring	Denis Khryashchev	Computer Science	Undergraduate
+10300 CC1	32120	Introduction to Computing (for CSc majors)	2021	Spring	Motahare Mounesan	Computer Science	Undergraduate
+10300 CC2	32121	Introduction to Computing (for CSc majors)	2021	Spring	Motahare Mounesan	Computer Science	Undergraduate
+10300 MM1	32122	Introduction to Computing (for CSc majors)	2021	Spring	William E. Skeith	Computer Science	Undergraduate
+10300 MM2	32123	Introduction to Computing (for CSc majors)	2021	Spring	William E. Skeith	Computer Science	Undergraduate
+10400 EF1	32124	Discrete Mathematical Structures	2021	Spring	Tahereh Jafarikhah	Computer Science	Undergraduate
+10400 PR1	32125	Discrete Mathematical Structures	2021	Spring	Arthur P. Pedersen	Computer Science	Undergraduate
+11300 2L	32142	Programming Language	2021	Spring	Ahmet Yuksel	Computer Science	Undergraduate
+11300 2N	32126	Programming Language	2021	Spring	Ahmet Yuksel	Computer Science	Undergraduate
+21000 C	32127	Computers and Assembly Programming	2021	Spring	Michael Vulis	Computer Science	Undergraduate
+21000 E	32171	Computers and Assembly Programming	2021	Spring	Michael Vulis	Computer Science	Undergraduate
+21100 CC1	32178	Fundamentals of Computer Systems	2021	Spring	Zheng Peng	Computer Science	Undergraduate
+21100 CC2	32177	Fundamentals of Computer Systems	2021	Spring	Zheng Peng	Computer Science	Undergraduate
+21200 BC	32129	Data Structures	2021	Spring	Huseyn Huseynov	Computer Science	Undergraduate
+21200 EF	32149	Data Structures	2021	Spring	Zhigang Zhu	Computer Science	Undergraduate
+21200 LM	32128	Data Structures	2021	Spring	George Wolberg	Computer Science	Undergraduate
+21700 C	32172	Probability & Statistics for Computer Science	2021	Spring	Ilia Ilmer	Computer Science	Undergraduate
+21700 M	32161	Probability & Statistics for Computer Science	2021	Spring	Irina Gladkova	Computer Science	Undergraduate
+21700 P	49820	Probability & Statistics for Computer Science	2021	Spring	Leonid Gurvits	Computer Science	Undergraduate
+22000 C	32130	Algorithms	2021	Spring	Elahe Vahdani	Computer Science	Undergraduate
+22000 D	32148	Algorithms	2021	Spring	Ahmet Yuksel	Computer Science	Undergraduate
+22000 M	32162	Algorithms	2021	Spring	Arezoo Bybordi	Computer Science	Undergraduate
+22100 F	32131	Software Design Laboratory	2021	Spring	Ayman Zeidan	Computer Science	Undergraduate
+22100 P	32132	Software Design Laboratory	2021	Spring	Hesham Auda	Computer Science	Undergraduate
+22100 R	32150	Software Design Laboratory	2021	Spring	Hesham Auda	Computer Science	Undergraduate
+30100 B	32147	Scientific Programming	2021	Spring	Erik Grimmelmann	Computer Science	Undergraduate
+30100 E	32167	Scientific Programming	2021	Spring	Erik Grimmelmann	Computer Science	Undergraduate
+30100 P	32133	Scientific Programming	2021	Spring	Irina Gladkova	Computer Science	Undergraduate
+30400 F	32187	Introduction to Theoretical Computer Science	2021	Spring	Stephen Lucci	Computer Science	Undergraduate
+30400 S	32186	Introduction to Theoretical Computer Science	2021	Spring	Leonid Gurvits	Computer Science	Undergraduate
+32200 P	32134	Software Engineering	2021	Spring	Jie Wei	Computer Science	Undergraduate
+33200 G	32158	Operating Systems	2021	Spring	Zaid Al-Mashhadani	Computer Science	Undergraduate
+33200 K	32180	Operating Systems	2021	Spring	Devendra Kumar	Computer Science	Undergraduate
+33200 M	32156	Operating Systems	2021	Spring	Devendra Kumar	Computer Science	Undergraduate
+33500 M	32135	Programming Laguage Paradigms	2021	Spring	Douglas Troeger	Computer Science	Undergraduate
+33500 R	34125	Programming Laguage Paradigms	2021	Spring	Douglas Troeger	Computer Science	Undergraduate
+33600 H	32157	Introduction to Database Systems	2021	Spring	John Connor	Computer Science	Undergraduate
+33600 M	32179	Introduction to Database Systems	2021	Spring	Hesham Auda	Computer Science	Undergraduate
+34200 G	32164	Computer Organization	2021	Spring	Izidor Gertner	Computer Science	Undergraduate
+34300 DE	32159	Computer Systems Design Laboratory	2021	Spring	Izidor Gertner	Computer Science	Undergraduate
+41200 6X	33622	Computer Networks	2021	Spring	Kaliappa Ravindran	Computer Science	Undergraduate
+42000 G	55237	Compiler Construction	2021	Spring	Michael Vulis	Computer Science	Undergraduate
+42800 5FG	55913	Formal Languages	2021	Spring	Stepen Lucci	Computer Science	Undergraduate
+44800 L	56026	Artificial Intelligence	2021	Spring	William H. McNichols	Computer Science	Undergraduate
+47200 P	32163	Computer Graphics	2021	Spring	George Wolberg	Computer Science	Undergraduate
+51001 Q	32175	Independent Study	2021	Spring	Akira Kawaguchi	Computer Science	Undergraduate
+51003 Q	32174	Independent Study	2021	Spring	Akira Kawaguchi	Computer Science	Undergraduate
+59866 2TU	32160	Senior Project I Laboratory	2021	Spring	Richard Khan	Computer Science	Undergraduate
+59866 3HJ	57233	Senior Project I Laboratory	2021	Spring	Alan Rozet	Computer Science	Undergraduate
+59866 D	32189	Senior Project I Laboratory	2021	Spring	Erik Grimmelmann	Computer Science	Undergraduate
+59866 S	32173	Senior Project I Laboratory	2021	Spring	Arthur Paul Pedersen	Computer Science	Undergraduate
+59867 01	32136	Senior Project  II	2021	Spring	Zhigang Zhu	Computer Science	Undergraduate
+59867 02	32138	Senior Project  II	2021	Spring	Nelly Fazio	Computer Science	Undergraduate
+59867 03	32146	Senior Project  II	2021	Spring	Akira Kawaguchi	Computer Science	Undergraduate
+59867 04	32168	Senior Project  II	2021	Spring	Ronak Etemadpour	Computer Science	Undergraduate
+59867 05	33412	Senior Project  II	2021	Spring	Huy T. Vo	Computer Science	Undergraduate
+59939 1HJ	33626	Topics in Modern Software Engineering	2021	Spring	Daniel Obeng	Computer Science	Undergraduate
+59969 E	32169	Visualization	2021	Spring	Ronak Etemadpour	Computer Science	Undergraduate
+59972 R	33625	Introduction to Distributed Algorithms	2021	Spring	Devendra Kumar	Computer Science	Undergraduate
+I0400 6XX	55156	Operating Systems	2021	Spring	Kaliappa Ravindran	Computer Science	Masters in Computer Science
+I0600 LM	59627	Fundamental Algorithms	2021	Spring	Rsario Gennaro	Computer Science	Masters in Computer Science
+I0802 5FG	58302	Web/Geographical Information System	2021	Spring	Jianting Zhang	Computer Science	Masters in Computer Science
+I1301 3HJ	58271	Privacy for Data Scientists	2021	Spring	Allison Bishop	Computer Science	Masters in Computer Science
+I1910 4GH	33559	Neural Networks with Tensorflow	2021	Spring	Michael Grossberg	Computer Science	Masters in Computer Science
+I4900 2RR	32137	Computer Security	2021	Spring	William Skeith	Computer Science	Masters in Computer Science
+I9700 Q	32170	0 Credit Report	2021	Spring	TBA	Computer Science	Masters in Computer Science
+I9900 Q	32188	Masters Research	2021	Spring	Jianting Zhang	Computer Science	Masters in Computer Science
+I2100 2RR	33537	Applied Machine Learning and Data Mining	2021	Spring	Michael Grossberg	Computer Science	Masters in Data Science and Engineering
+I2400 4RR	33539	Data Engineering: Infrastructure and Applications	2021	Spring	Sushil Da Silva	Computer Science	Masters in Data Science and Engineering
+I2450 3GH	33540	Big Data and Scalable Computation	2021	Spring	Huy T. Vo	Computer Science	Masters in Data Science and Engineering
+G5010	33703	Seminar in Information Systems Management	2021	Spring	Abbe Mowshowitz	Computer Science	Masters in Management of Information Systems
+H2020 3HJ	33701	Database Management	2021	Spring	Kumud Majumder	Computer Science	Masters in Management of Information Systems
+H3010 1TU	33702	Managerial Economics	2021	Spring	Jacob Krayn	Computer Science	Masters in Management of Information Systems
+H5020 2TU	33704	Project in Information Systems Management	2021	Spring	Kumud Majumder	Computer Science	Masters in Management of Information Systems
